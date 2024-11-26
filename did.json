@@ -1,7 +1,7 @@
 {
     "schema": {
         "type": "https://w3c-ccg.github.io/vc-json-schemas/",
-        "id": "did:schema:1c760d66-81a7-4db2-ab47-c9432b4646c9",
+        "id": "did:schema:9085574e-f8ce-4792-95c1-64b84561b9f4",
         "version": "1.0.0",
         "name": "Proof of Academic Evaluation Credential",
         "author": "did:rcw:6b9d7b31-bc7f-454a-be30-b6c7447b1cff",
@@ -43,8 +43,8 @@
         "tag2"
     ],
     "status": "DRAFT",
-    "createdAt": "2024-11-19T07:52:00.825Z",
-    "updatedAt": "2024-11-19T07:52:00.825Z",
+    "createdAt": "2024-11-26T10:22:09.856Z",
+    "updatedAt": "2024-11-26T10:22:09.856Z",
     "deletedAt": null,
     "createdBy": null,
     "updatedBy": null
